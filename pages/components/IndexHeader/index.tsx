@@ -75,7 +75,7 @@ const IndexHeader: React.FC<{
 
             <div className={styles.siteIntroduction}>
                 <div className={styles.title}>
-                    <span className={styles.item}>Light</span>
+                    <span className={styles.item}>Personal</span>
                     <span className={styles.item}>GPT</span>
                 </div>
                 <div className={styles.description}>
@@ -87,7 +87,7 @@ const IndexHeader: React.FC<{
                     className="fab fa-github"
                     onClick={() => {
                         window.open(
-                            'https://github.com/riwigefi/light-gpt',
+                            'https://github.com/sacrifice-w/personalGPT/',
                             '_blank'
                         );
                     }}

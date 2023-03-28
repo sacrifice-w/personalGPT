@@ -1,8 +1,8 @@
-# personalGpt
+# personalGPT
 
-personalGpt 是一个基于 GPT-3.5-Turbo 模型的交互式网站项目，使用 Next.js 框架构建，使用 Vercel 云平台部署，是一个纯前端的轻量级应用，供自己使用chatGpt使。
+personalGPT 是一个基于 GPT-3.5-Turbo 模型的交互式网站项目，使用 Next.js 框架构建，使用 Vercel 云平台部署，是一个纯前端的轻量级应用，供自己使用chatGpt使。
 
-Github 代码库: https://github.com/riwigefi/light-gpt
+Github 代码库: https://github.com/sacrifice-w/personalGPT
 
 演示站点: https://wu-gpt.vercel.app/  (需要科学上网)
 
@@ -16,18 +16,17 @@ Github 代码库: https://github.com/riwigefi/light-gpt
 6. 支持 DIY，支持设置用户头像和 AI 头像。
 ## 本地部署
 
-要在本地部署 Light-GPT，按照以下步骤操作(需要 node16 及以上版本)：
+要在本地部署 personalGPT，按照以下步骤操作(需要 node16 及以上版本)：
 
 1. 将项目下载到本地:
 
 ```bash
-git clone https://github.com/riwigefi/light-gpt.git
+git clone https://github.com/sacrifice-w/personalGPT.git
 ```
 
 2. 进入项目目录并安装依赖项:
 
 ```bash
-cd light-gpt
 pnpm install
 ```
 

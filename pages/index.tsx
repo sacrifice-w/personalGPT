@@ -812,9 +812,9 @@ export default function Home() {
                             </div>
                         </div>
                         <div className={styles.siteDescription}>
-                            <span>Made by wjm</span>
+                            <span>WH</span>
                             <span>｜</span>
-                            <span>Just have fun</span>
+                            <span>Just Enjoy</span>
                         </div>
                     </div>
                     <div className={styles.action}>
